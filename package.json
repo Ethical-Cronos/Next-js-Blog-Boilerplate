@@ -12,7 +12,7 @@
     "lint": "eslint --ext .js,.jsx,.ts,.tsx ."
   },
   "dependencies": {
-    "@mapbox/rehype-prism": "^0.6.0",
+    "@mapbox/rehype-prism": "^0.8.0",
     "date-fns": "^2.21.1",
     "gray-matter": "^4.0.2",
     "next": "^10.1.3",
